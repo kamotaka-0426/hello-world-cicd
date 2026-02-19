@@ -6,6 +6,5 @@ jobs:
   sample:
     name: Hello World Job
     runs-on: ubuntu-latest
-    setps:
+    steps:
       - run: echo "Hello World !"
-      
